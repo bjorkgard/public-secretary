@@ -1,7 +1,7 @@
 ---
 name: Rapportera ett fel
 about: Skapa en rapport för att hjälpa oss att rätta till felet.
-title: BUG
+title: ''
 labels: bug
 assignees: ''
 
